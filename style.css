@@ -1,0 +1,70 @@
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  .content{
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 168px;
+    background: #ffffff36 !important;
+    color: #f1f1f1 !important;
+    width: 100%;
+    padding: 20px;
+    color: rgb(0, 81, 255);
+  }
+  .content h1 {
+    font-size: 85px;
+    color: rgb(58, 183, 255);
+  }
+  .content h2 {
+    font-size: 40px;
+    color: rgb(0, 253, 63);
+  }
+  .project ,
+  .project2{
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 168px;
+    background: #ffffff36 !important;
+    width: 100%;
+    padding: 20px;
+    color: rgb(0, 81, 255);
+  }
+  .project h1,
+  .project2 h1,
+  .project3 h1{
+    font-size: 40px;
+    color: #96D0FF;
+  }
+  .project h3,
+  .project2 h3,
+  .project3 h3{
+  color: #FFF196 !important;
+  }
+  .project2 {
+    margin-bottom: 354px;
+  }
+  .project3 {
+    position: absolute;
+    margin: 100px 0;
+    background: #ffffff36 !important;
+    width: 100%;
+    padding: 20px;
+    color: rgb(0, 81, 255);
+}
+.project3 h2{
+    color: #54D55F !important;
+}
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.project4{
+  margin-top: 194px;
+}
